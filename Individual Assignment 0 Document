@@ -18,6 +18,7 @@ Project Proposal List:
     the user of when the items they have not aquired will
     return in the following year.
 - Server Programming
-    (description here)
+    We could create a packet sniffer that analyzes and 
+    monitors traffic data that passes over a network. 
 - Android App
     (description here)
